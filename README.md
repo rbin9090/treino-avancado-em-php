@@ -3,7 +3,7 @@
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/rbin9090/Robson-Barros/blob/branch/LICENCE) 
 
-<h3>✨ AQUI CONTEM TODOS OS PROJETOS DE TREINOS</h3> 
+<h3>💻 AQUI CONTEM TODOS OS PROJETOS DE TREINOS</h3> 
 
 ### data de inicio dos treinos 24/02/2023.
 
