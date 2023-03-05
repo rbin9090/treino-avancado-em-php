@@ -5,7 +5,7 @@
 
 <h3>💻 AQUI CONTEM TODOS OS PROJETOS DE TREINOS</h3> 
 
-### data de inicio dos treinos 24/02/2023.
+### desde 24/02/2023.
 
 
 
@@ -17,7 +17,7 @@ Todos os dias procuro melhorar cada vez mais em virtude da programação.
 
 
 Retomado os treinos 05/03/2023
-
+20:37
 
 
 
