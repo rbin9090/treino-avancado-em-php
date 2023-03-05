@@ -16,6 +16,8 @@ Todos os dias procuro melhorar cada vez mais em virtude da programação.
 
 
 
+Retomado os treinos 05/03/2023
+
 
 
 
